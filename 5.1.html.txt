@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+        <head>
+           <title>IT IS A TABLE</title>
+        </head>
+        <body bgcolor="pink">
+<center>
+            <h1 align="center">creation of tables</h1>
+<table border="1">
+<tr>
+<th>Name</th>
+<th>Roll no</th>
+<th>Gender</th>
+     <th>Phone No</th>
+</tr>
+<tr>
+<td>Pravallika</td>
+<td>20A91A0521</td>
+<td>Female</td>
+<td>8096661562
+9949231562</td>
+</tr>
+<tr>
+<td>Rama Lakshmi</td>
+<td>20A91A0554</td>
+<td>Female</td>
+<td>7893860179</td>
+</tr>
+<tr>
+<td>Vineetha Devika Reddy </td>
+<td>20A91A0543</td>
+<td>Female</td>
+<td>1234567890</td>
+</tr>
+<tr>
+<td>Ram</td>
+<td>20A91A0541</td>
+<td>Male</td>
+<td>9314053710</td>
+</tr>
+</table>
+    
+</center>
+</body>
+</html>
